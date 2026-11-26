@@ -1,0 +1,53 @@
+
+====================================================
+       RAPPORT FINAL DU PROJET
+       DETECTION DES ANOMALIES
+       DANS LES DOSSIERS ADMINISTRATIFS
+====================================================
+
+Date de generation : 24/11/2026 21:17
+
+1. PRESENTATION DU DATASET
+--------------------------
+Nombre total de dossiers : 500
+Dossiers normaux : 445
+Anomalies reelles : 55
+
+2. RESULTATS DE LA DETECTION
+----------------------------
+Anomalies detectees par Isolation Forest : 55
+Anomalies detectees par LOF : 55
+
+3. COMPARAISON DES MODELES
+--------------------------
+              Modele  Accuracy  Precision   Recall  F1_score
+    Isolation Forest     0.848   0.309091 0.309091  0.309091
+Local Outlier Factor     0.856   0.345455 0.345455  0.345455
+
+4. MEILLEUR MODELE
+------------------
+Modele : Local Outlier Factor
+Accuracy : 0.856
+Precision : 0.345
+Recall : 0.345
+F1-score : 0.345
+
+5. CONCLUSION
+-------------
+Le projet a permis d'explorer les donnees,
+de preparer le dataset et de detecter
+automatiquement les anomalies.
+
+Deux algorithmes ont ete testes :
+Isolation Forest et Local Outlier Factor.
+
+Le modele ayant le meilleur F1-score est :
+Local Outlier Factor.
+
+Les resultats peuvent etre utilises comme
+base pour ameliorer le systeme de detection
+des anomalies dans les dossiers administratifs.
+
+====================================================
+                 FIN DU RAPPORT
+====================================================

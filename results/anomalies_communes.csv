@@ -1,0 +1,28 @@
+id_dossier,age_demandeur,montant_demande,revenu_mensuel,nb_documents,delai_traitement_jours,nb_erreurs,type_dossier,region,anomalie_reelle,type_anomalie,anomalie_IF,anomalie_LOF
+D1007,-4.0,3199.0,3650.0,5.0,14.0,3,Bourse,Gabès,1,Age negatif,1,1
+D1032,23.0,2123.0,5183.0,10.0,9.0,4,Bourse,Tunis,0,Aucune,1,1
+D1035,21.0,2097.0,5263.0,1.0,77.0,4,État civil,Tunis,0,Aucune,1,1
+D1044,21.0,10023.0,5037.0,3.0,-15.0,4,Aide sociale,Tunis,1,Delai negatif,1,1
+D1058,61.0,999999.0,3115.0,10.0,36.0,0,Logement,Sfax,1,Montant extremement eleve,1,1
+D1066,70.0,2968.0,6499.0,10.0,66.0,4,État civil,Nabeul,0,Aucune,1,1
+D1073,25.0,876.0,250000.0,9.0,31.0,1,Subvention,Sousse,1,Revenu extremement eleve,1,1
+D1086,145.0,8366.0,5661.0,9.0,66.0,1,Aide sociale,Nabeul,1,Age anormalement eleve,1,1
+D1102,64.0,8947.0,6453.0,85.0,16.0,3,Aide sociale,Sfax,1,Nombre de documents extremement eleve,1,1
+D1119,24.0,1935.0,3580.0,10.0,900.0,4,État civil,Tunis,1,Delai extremement long,1,1
+D1137,19.0,3773.0,2724.0,7.0,3.0,45,Bourse,Nabeul,1,Nombre d erreurs extremement eleve,1,1
+D1148,65.0,11538.0,4902.0,10.0,77.0,4,État civil,Monastir,0,Aucune,1,1
+D1152,71.0,2667.0,3158.0,1.0,78.0,4,Aide sociale,Nabeul,0,Aucune,1,1
+D1197,24.0,7204.0,6878.0,2.0,78.0,2,État civil,Nabeul,0,Aucune,1,1
+D1207,74.0,6998.0,5115.0,10.0,76.0,1,État civil,Gabès,0,Aucune,1,1
+D1217,23.0,6058.0,5194.0,4.0,90.0,3,Bourse,Sousse,0,Aucune,1,1
+D1226,64.0,8739.0,974.0,10.0,79.0,0,Bourse,Tunis,0,Aucune,1,1
+D1239,54.0,180000.0,526.0,3.0,80.0,1,Aide sociale,Gabès,1,Montant extremement eleve,1,1
+D1268,53.0,1937.0,6684.0,1.0,11.0,2,Aide sociale,Gabès,0,Aucune,1,1
+D1269,52.0,4703.0,578.0,2.0,88.0,4,État civil,Sousse,0,Aucune,1,1
+D1273,73.0,8698.0,4808.0,4.0,42.0,30,Bourse,Sfax,1,Nombre d erreurs extremement eleve,1,1
+D1290,120.0,1419.0,1827.0,6.0,36.0,4,Bourse,Tunis,1,Age anormalement eleve,1,1
+D1307,50.0,1593.0,1854.0,5.0,365.0,1,Aide sociale,Sfax,1,Delai extremement long,1,1
+D1368,19.0,5525.0,6752.0,1.0,15.0,4,Bourse,Sfax,0,Aucune,1,1
+D1409,18.0,1373.0,2162.0,10.0,3.0,1,Bourse,Monastir,0,Aucune,1,1
+D1438,22.0,5701.0,2403.0,10.0,76.0,4,État civil,Bizerte,0,Aucune,1,1
+D1450,73.0,1392.0,2232.0,10.0,76.0,0,Bourse,Nabeul,0,Aucune,1,1
